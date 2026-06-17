@@ -277,4 +277,4 @@ async def generate_gag2(interaction: discord.Interaction, webhook: str, receiver
         await interaction.edit_original_response(content=f'Error: {str(error)}')
 
 # Run the bot
-client.run("MTUxNjE4OTE5OTY0NzExMzIyNw.Gd-mXT.p1VvGD610V37eA87bCjAXHwSekWFzSjqvWe7lU")
+client.run("")
